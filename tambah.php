@@ -29,6 +29,7 @@
         </div>
         <div class="d-grid gap-2 d-md-block mx-auto" style="padding-top:5px;">
             <button type="submit" value="simpan" class="btn btn-primary mb-3" style="--bs-btn-font-weight: 600;">.   .Save.   .</button>
+            <!-- <button type="" class="btn btn-danger mb-3" style="--bs-btn-font-weight: 600;" action="index.php" >.   .Batal.   .</button> -->
             </div>
     </form>
 </body>
